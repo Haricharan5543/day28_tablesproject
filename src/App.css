@@ -1,0 +1,19 @@
+.App {
+  text-align: start;
+  
+    
+}
+table th,td{
+  border: 1px solid black;
+
+}
+.detailsDiv{
+
+  display: block;
+  
+  /* flex-wrap: nowrap;  */
+
+}
+
+
+
